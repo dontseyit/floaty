@@ -1,6 +1,10 @@
-# FLOATY - ESP32-C3 Flap Servo Controller
+# floaty - ESP32-C3 Flap Servo Controller
 
-A dual-servo flapping controller for floating robots. Built for the ESP32-C3 Super Mini with HW-566 expansion board, driving two GH-S37D micro servos with smooth, synchronized motion.
+<img alt="work in progress" src="https://img.shields.io/badge/work%20in%20progress-8A2BE2">
+
+A simple dual-servo controller for prototyping a floating robot flaps. Developed for the EMBL robotics club.
+
+Built for the ESP32-C3 Super Mini with HW-566 expansion board, driving two GH-S37D micro servos with smooth, synchronized motion.
 
 ## Hardware
 
